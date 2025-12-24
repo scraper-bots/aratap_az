@@ -1,0 +1,55 @@
+======================================================================
+REAL ESTATE MARKET INSIGHTS SUMMARY
+======================================================================
+
+Generated: 2025-12-24 22:36:39
+Data Source: dasinmaz-emlak_listings_20251224_222606.csv
+Total Listings Analyzed: 2,001
+
+MARKET OVERVIEW
+----------------------------------------------------------------------
+Average Price: 400,418 AZN
+Median Price: 54,000 AZN
+Price Range: 1 - 517,877,992 AZN
+
+TOP 5 CITIES BY LISTINGS
+----------------------------------------------------------------------
+1. Bakı: 947 listings
+2. Xırdalan: 413 listings
+3. Xızı: 60 listings
+4. Sumqayıt: 17 listings
+5. Şuşa: 8 listings
+
+TOP PROPERTY TYPES
+----------------------------------------------------------------------
+1. Həyət evi: 422 listings
+2. Obyekt: 128 listings
+3. Bağ evi: 91 listings
+4. Ofis: 46 listings
+5. Villa: 32 listings
+
+PRICE PER SQUARE METER
+----------------------------------------------------------------------
+Average: 910 AZN/m²
+Median: 1,000 AZN/m²
+
+MOST POPULAR LISTINGS (by views)
+----------------------------------------------------------------------
+1. Bağ evi, Elimlər metrosu.
+   Views: 1,514 | Price: 400 AZN
+
+2. 3-otaqlı mənzil Yeni tikili, Ehmedli Metrosu yani., 80 m²
+   Views: 1,449 | Price: 128,000 AZN
+
+3. Obyekt Satılır, Baki.
+   Views: 1,231 | Price: 2,350,000 AZN
+
+4. 1-otaqlı mənzil Yeni tikili, Abseron yasayis kompleksi.., 41
+   Views: 1,229 | Price: 20,000 AZN
+
+5. Obyekt Satılır, Xırdalan şəhəri.
+   Views: 1,019 | Price: 180,000 AZN
+
+======================================================================
+END OF SUMMARY
+======================================================================

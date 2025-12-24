@@ -11,7 +11,7 @@ venv.bak/
 .idea/
 .vscode/
 .DS_Store
-*.log
+# *.log
 coverage/
 htmlcov/
 .tox/
@@ -37,3 +37,6 @@ chromedriver.exe
 *_failed_urls_*.txt
 scraper.log
 *_backup.json
+
+# Keep charts folder but ignore if too many files
+# charts/*.png  # Uncomment if you don't want to commit charts
